@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">DistressSMS</string>
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="delete_all_icon">Delete all icon</string>
 </resources>

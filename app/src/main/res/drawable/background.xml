@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/background_center"/>
+
+    <item android:start="-5dp"
+        android:end="150dp"
+        android:bottom="300dp"
+        android:drawable="@drawable/background_top" />
+
+
+    <item
+        android:top="50dp"
+        android:bottom="-50dp"
+        android:end="90dp"
+        android:drawable="@drawable/background_bottom"
+        />
+
+</layer-list>
